@@ -21,6 +21,8 @@ devsecops-lab/
     └── workflows/
         └── devsecops.yml
 
+```
+
 <img width="1963" height="1127" alt="image" src="https://github.com/user-attachments/assets/933f0105-abbc-407b-a0bf-65445d19fbe8" />
 
 
