@@ -46,6 +46,21 @@ devsecops-lab/
 ## ▶️ Pipeline GitHub Actions
 <img width="2528" height="1242" alt="image" src="https://github.com/user-attachments/assets/f5b1a4e0-59c8-4405-9411-a058a6a10a52" />
 
+---
+
+## 🔍 Résultats CodeQL
+
+
+<img width="2558" height="1113" alt="image" src="https://github.com/user-attachments/assets/77c42b4c-44aa-4cf6-a2f3-be1278d8604a" />
+
+---
+
+## ✅ Pipeline après correction
+
+
+
+
+
 
 
 
