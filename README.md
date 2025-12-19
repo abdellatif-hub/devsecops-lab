@@ -44,6 +44,7 @@ devsecops-lab/
 ---
 
 ## ▶️ Pipeline GitHub Actions
+<img width="2528" height="1242" alt="image" src="https://github.com/user-attachments/assets/f5b1a4e0-59c8-4405-9411-a058a6a10a52" />
 
 
 
