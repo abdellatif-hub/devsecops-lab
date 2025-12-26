@@ -125,8 +125,9 @@ git push origin main
 <img width="2559" height="1119" alt="image" src="https://github.com/user-attachments/assets/50da3df7-8b89-4da9-8163-df09398e8f8e" />
 
 
-➡️ Supply-Chain Security activée
-➡️ Pipeline DevSecOps complet (Niveau PRO)
+- ➡️ Supply-Chain Security activée
+  
+- ➡️ Pipeline DevSecOps complet (Niveau PRO)
 
 
 ---
