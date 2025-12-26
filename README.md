@@ -61,6 +61,81 @@ devsecops-lab/
 
 <img width="2548" height="1197" alt="image" src="https://github.com/user-attachments/assets/198ab727-1415-404f-ab94-be95597e7a34" />
 
+---
+
+# Dependency Security Pipeline
+
+![DevSecOps](https://img.shields.io/badge/DevSecOps-Supply%20Chain%20Security-blue)
+![CI/CD](https://img.shields.io/badge/GitHub-Actions-black)
+![Security](https://img.shields.io/badge/Security-Automated-green)
+
+---
+
+## 📌 Objectif du projet
+
+Ce projet implémente **DevSecOps**, qui consiste à sécuriser la **supply chain logicielle**
+en analysant automatiquement les dépendances Python dans un pipeline CI/CD GitHub Actions.
+
+---
+
+## 🏗️ Architecture du projet
+
+````
+devsecops-lab/
+├── .github/
+│ └── workflows/
+│ └── devsecops.yml
+├── api/
+│ └── app.py
+├── Dockerfile
+├── requirements.txt
+└── README.md
+````
+<img width="641" height="721" alt="image" src="https://github.com/user-attachments/assets/15cd3d87-e251-4bc3-89d6-0422a9e2cb5b" />
+
+---
+
+
+### 🔹requirements.txt
+<img width="2128" height="784" alt="image" src="https://github.com/user-attachments/assets/590d6bb8-8a4a-4d8f-958e-c5ef20fabe6f" />
+
+---
+
+
+### 🔹 Modifier le pipeline GitHub
+
+<img width="2113" height="1220" alt="image" src="https://github.com/user-attachments/assets/27566f80-4ead-416e-a484-e83ca61b1519" />
+
+
+### 🔹 Push
+````
+git pull --rebase origin main
+git add .
+git commit -m "Add dependency supply chain security"
+git push origin main
+
+````
+
+
+
+---
+
+## 📊 Résultats
+
+- ✔ Sécurité Supply Chain activée
+- ✔ Dépendances vérifiées avant le build Docker
+- ✔ Blocage automatique des librairies vulnérables
+- ✔ Pipeline DevSecOps complet
+
+---
+
+## 🎯 Conclusion
+
+DevSecOps-2 permet d’empêcher l’intégration de dépendances vulnérables dès la phase CI/CD,
+renforçant ainsi la sécurité globale de l’application.
+
+---
+
 
 
 
