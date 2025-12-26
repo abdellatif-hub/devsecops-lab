@@ -116,25 +116,26 @@ git push origin main
 
 ````
 
-
+<img width="2123" height="745" alt="image" src="https://github.com/user-attachments/assets/30683771-7068-41a0-9bf5-b9829aef1d5a" />
 
 ---
 
-## 📊 Résultats
+## GitHub → Actions → DevSecOps Pipeline
 
-- ✔ Sécurité Supply Chain activée
-- ✔ Dépendances vérifiées avant le build Docker
-- ✔ Blocage automatique des librairies vulnérables
-- ✔ Pipeline DevSecOps complet
+
+
+➡️ Supply-Chain Security activée
+➡️ Pipeline DevSecOps complet (Niveau PRO)
+
 
 ---
 
 ## 🎯 Conclusion
 
-DevSecOps-2 permet d’empêcher l’intégration de dépendances vulnérables dès la phase CI/CD,
-renforçant ainsi la sécurité globale de l’application.
+DevSecOps a permis d’ajouter la sécurité de la supply chain dans le pipeline CI/CD grâce au scan automatique des dépendances avec Safety.
+Toute bibliothèque vulnérable est désormais détectée et bloquée avant le build Docker, ce qui renforce la sécurité et la fiabilité de l’application.
 
----
+
 
 
 
